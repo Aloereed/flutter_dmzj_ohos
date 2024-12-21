@@ -18,6 +18,7 @@
 
 - [x] Android
 - [x] iOS
+- [x] OpenHarmony `Beta`
 - [x] Windows `Beta`
 - [x] MacOS `Beta`
 - [x] Linux `Beta`
